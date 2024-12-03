@@ -13,11 +13,19 @@
 <!-- ABOUT YOU -->
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
-  <ul>
-    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
-    <li>📫 How to reach me <strong>celesteorellano14@gmail.com</strong></li>
-  </ul>
+<ul>
+  <li>💻 I love coding, creating things, solving problems, and taking on challenges.</li>
+  <li>🔭 I’m currently studying.</li>
+  <li>🌱 My current skills include:
+    <ul>
+      <li><strong>Programming languages:</strong> Python, JavaScript.</li>
+      <li><strong>Tools and technologies:</strong> React, Node.js, Git, MySQL.</li>
+      <li><strong>Interests:</strong> Web development, interface design, and algorithms.</li>
+    </ul>
+  </li>
+  <li>📫 You can contact me at: <strong>celesteorellano14@gmail.com</strong></li>
+</ul>
+
 
 <!-- CONNECTION -->
 <hr>      
