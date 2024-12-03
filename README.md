@@ -1,4 +1,3 @@
-![Welcome to my profile]https://www.bing.com/images/search?view=detailV2&ccid=wxzyo7Wr&id=05DC5A7918697FD4DA01AEEDE7DEF4E89B3AA0E2&thid=OIP.wxzyo7Wrm344tHpZhueRRgHaHa&mediaurl=https%3A%2F%2Fres.cloudinary.com%2Fstartup-grind%2Fimage%2Fupload%2Fc_fill%2Cdpr_2.0%2Cf_auto%2Cg_center%2Ch_1080%2Cq_100%2Cw_1080%2Fv1%2Fgcs%2Fplatform-data-dsc%2Fevents%2Fsto9g2z6whq2mp7huhqf.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c31cf2a3b5ab9b7e38b47a5986e79146%3Frik%3D4qA6m%252bj03uftrg%26pid%3DImgRaw%26r%3D0&exph=2160&expw=2160&q=fotos+para+perfil+readme+github+copadas&simid=608036390745762089&form=IRPRST&ck=07DECAC27C53EF095614F4052C368697&selectedindex=12&itb=0&ajaxhist=0&ajaxserp=0&cit=ccid_RP7CVWNv*cp_95D877E512EC0BC5AC54FC9F16DDE5D4*mid_F2413E15B15AB9F22EBD7303A4C7C488EF3027C6*simid_608053609245652785*thid_OIP.RP7CVWNvp1F1ydjY!_KKbjAAAAA&vt=2)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
