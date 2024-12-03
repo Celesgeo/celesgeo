@@ -81,7 +81,7 @@
 </p>
 <hr>
 <p>
-  <h3 align="center">Support:</h3>
+ 
   <p>
    
   </p>
