@@ -12,7 +12,9 @@ Me apasiona el mundo del desarrollo de software, la resolución de problemas y e
 Lenguajes de programación: Python, JavaScript.
 Herramientas y tecnologías: React, Node.js, Git, MySQL.
 Intereses: Desarrollo web, diseño de interfaces y algoritmos.
-
+Programming Languages
+C C++ CSS HTML JavaScript Markdown
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/JaydeepYadav.md#programming-languages
 
 🎯 Objetivos
 Completar mi formación académica y adquirir experiencia práctica en proyectos reales.
