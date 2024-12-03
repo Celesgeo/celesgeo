@@ -100,7 +100,7 @@
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+  src="https://github-readme-stats.vercel.app/api/top-langs?username_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Celesgeo" /></p></a>
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="Celesgeo" /></p></a>  
   </p>
 </p>
