@@ -4,7 +4,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Orellano ,Celeste</span>
+      <span align="center">O,C</span>
     </h4>
 </span>
 
