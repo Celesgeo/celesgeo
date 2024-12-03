@@ -1,7 +1,7 @@
 
 
 🌟 Bienvenidos a mi Perfil
-<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="Foto de perfil" width="200" align="right" style="border-radius: 10px;">
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png">
 
 👩‍💻 Sobre mí
 ¡Hola! Mi nombre es Orellano Celeste, y actualmente soy estudiante de la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).
