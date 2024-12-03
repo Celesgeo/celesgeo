@@ -79,11 +79,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Canva_Logo.svg" alt="Canva" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
-<!-- SUPPORT -->
 <hr>
 <p>
   <h3 align="center">Support:</h3>
