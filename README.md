@@ -29,9 +29,9 @@
 <hr>      
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Celesgeo/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/height="30" width="40" /></a>
-  <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Celesgeo/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/197Hjfa9je/?mibextid=LQQJ4d" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/invites/contact/?igsh=15564698y58x9&utm_content=pwcnxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Celesgeo/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celes.geo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/" height="30" width="40" /></a>
+  <a href="https://fb.com/celeste.0545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
+  <a href="https://instagram.com/celes.geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
